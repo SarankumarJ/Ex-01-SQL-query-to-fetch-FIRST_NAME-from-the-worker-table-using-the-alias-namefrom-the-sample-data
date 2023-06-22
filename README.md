@@ -1,4 +1,4 @@
-# Ex-01-SQL-query-to-fetch-FIRST_NAME-from-the-worker-table-using-the-alias-namefrom-the-sample-data
+# Ex-16 SQL query to fetch FIRST_NAME from the worker table using the alias namefrom the sample data
 ## AIM:-
 To write a sql query to fetch "FIRST_NAME" from the worker table using the alias name from the sample data.
 
@@ -16,6 +16,8 @@ Insert Value to the tables.
 Select firstname from the table worker as name.
 
 ## PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```sql
 CREATE DATABASE ORG;
 SHOW DATABASES;
